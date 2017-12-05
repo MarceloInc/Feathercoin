@@ -2,6 +2,7 @@ Feathercoin Core 0.13.2
 =======================
 
 This version is a fresh pull of Bitcoin code
+
 Further changes need tp be made to adapt it to Feathercoin.
 
 Status: early development
